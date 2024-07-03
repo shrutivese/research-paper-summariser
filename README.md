@@ -23,11 +23,11 @@ The code has been modified to include the Gemini pro LLM model instead of OpenAI
 The above 2 services are run on docker on port 8000 and 8501 repectively. Requests from paper-source to genrate a summary is sent to the pathway demo-question-answering service , which generates a summary suited to user's chosen level of understanding (basic/advanced/intermediate).
 
 # how to run
-Create a Gemini API key 
-Create a .env file in the demo-question-answering file and store the Gemini Api key :  GEMINI_API_KEY=******* (put the key in quotes)
-Install docker desktop
-Use docker-compose up --build
-Navigate to localhost:8501 for the streamlit UI
+1. Create a Gemini API key 
+2. Create a .env file in the demo-question-answering file and store the Gemini Api key :  GEMINI_API_KEY=******* (put the key in quotes)
+3. Install docker desktop
+4. Use docker-compose up --build
+5. Navigate to localhost:8501 for the streamlit UI
 
 
 
