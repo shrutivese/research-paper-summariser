@@ -20,7 +20,7 @@ The code has been modified to include the Gemini pro LLM model instead of OpenAI
 
 2. paper-source : This contains the code for the Streamlit UI elements and the code to gather resource papers via arXiv API calls. Within this , a data folder is created which stores the necessary information
 
-The above 2 services are run on docker on port 8000 and 8501 repectively. Requests from paper-source to genrate a summary is sent to the pathway demo-question-answering service , which generates a summary suited to user's chosen level of understanding (basic/advanced/intermediate).
+The above 2 services are run on docker on port 8000 and 8501 respectively. Requests from paper-source to genrate a summary is sent to the pathway demo-question-answering service , which generates a summary suited to user's chosen level of understanding (basic/advanced/intermediate).
 
 # how to run
 1. Create a Gemini API key 
