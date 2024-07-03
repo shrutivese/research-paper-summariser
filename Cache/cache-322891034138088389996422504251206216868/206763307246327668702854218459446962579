@@ -1,0 +1,22 @@
+Title: Decentralized Intelligence Network (DIN)
+Authors: Abraham Nash
+Published: 2024-07-02T17:40:06Z
+Link: http://arxiv.org/abs/2407.02461v1
+
+Summary:
+Decentralized Intelligence Network (DIN) addresses the significant challenges
+of data sovereignty and AI utilization caused by the fragmentation and siloing
+of data across providers and institutions. This comprehensive framework
+overcomes access barriers to scalable data sources previously hindered by silos
+by leveraging: 1) personal data stores as a prerequisite for data sovereignty;
+2) a scalable federated learning protocol implemented on a public blockchain
+for decentralized AI training, where data remains with participants and only
+model parameter updates are shared; and 3) a scalable, trustless rewards
+mechanism to incentivize participation and ensure fair reward distribution.
+This framework ensures that no entity can prevent or control access to training
+on data offered by participants or determine financial benefits, as these
+processes operate on a public blockchain with an immutable record and without a
+third party. It supports effective AI training, allowing participants to
+maintain control over their data, benefit financially, and contribute to a
+decentralized, scalable ecosystem that leverages collective AI to develop
+beneficial algorithms.

@@ -1,0 +1,23 @@
+Title: Parameter Matching Attack: Enhancing Practical Applicability of
+  Availability Attacks
+Authors: Yu Zhe, Jun Sakuma
+Published: 2024-07-02T17:15:12Z
+Link: http://arxiv.org/abs/2407.02437v1
+
+Summary:
+The widespread use of personal data for training machine learning models
+raises significant privacy concerns, as individuals have limited control over
+how their public data is subsequently utilized. Availability attacks have
+emerged as a means for data owners to safeguard their data by desning
+imperceptible perturbations that degrade model performance when incorporated
+into training datasets. However, existing availability attacks exhibit
+limitations in practical applicability, particularly when only a portion of the
+data can be perturbed. To address this challenge, we propose a novel
+availability attack approach termed Parameter Matching Attack (PMA). PMA is the
+first availability attack that works when only a portion of data can be
+perturbed. PMA optimizes perturbations so that when the model is trained on a
+mixture of clean and perturbed data, the resulting model will approach a model
+designed to perform poorly. Experimental results across four datasets
+demonstrate that PMA outperforms existing methods, achieving significant model
+performance degradation when a part of the training data is perturbed. Our code
+is available in the supplementary.

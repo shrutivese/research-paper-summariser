@@ -1,0 +1,21 @@
+Title: Fast, Scalable, Energy-Efficient Non-element-wise Matrix Multiplication
+  on FPGA
+Authors: Xuqi Zhu, Huaizhi Zhang, JunKyu Lee, Jiacheng Zhu, Chandrajit Pal, Sangeet Saha, Klaus D. McDonald-Maier, Xiaojun Zhai
+Published: 2024-07-02T15:28:10Z
+Link: http://arxiv.org/abs/2407.02362v1
+
+Summary:
+Modern Neural Network (NN) architectures heavily rely on vast numbers of
+multiply-accumulate arithmetic operations, constituting the predominant
+computational cost. Therefore, this paper proposes a high-throughput, scalable
+and energy efficient non-element-wise matrix multiplication unit on FPGAs as a
+basic component of the NNs. We firstly streamline inter-layer and intra-layer
+redundancies of MADDNESS algorithm, a LUT-based approximate matrix
+multiplication, to design a fast, efficient scalable approximate matrix
+multiplication module termed "Approximate Multiplication Unit (AMU)". The AMU
+optimizes LUT-based matrix multiplications further through dedicated memory
+management and access design, decoupling computational overhead from input
+resolution and boosting FPGA-based NN accelerator efficiency significantly. The
+experimental results show that using our AMU achieves up to 9x higher
+throughput and 112x higher energy efficiency over the state-of-the-art
+solutions for the FPGA-based Quantised Neural Network (QNN) accelerators.
