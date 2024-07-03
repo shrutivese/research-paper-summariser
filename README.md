@@ -13,8 +13,7 @@ https://github.com/shrutivese/research-paper-summariser/assets/155245815/82d3e7a
 
 # how it works
 
-![Concept map (1)](https://github.com/shrutivese/research-paper-summariser/assets/155245815/6f1c196f-c7c6-45ed-9904-40ab8984ed6f)
-
+![Concept map (2)](https://github.com/shrutivese/research-paper-summariser/assets/155245815/aad1c873-2a94-4e0e-a9de-d2dec8333fed)
 
 
 
