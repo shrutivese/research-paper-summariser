@@ -28,6 +28,8 @@ The above 2 services are run on docker on port 8000 and 8501 respectively. Reque
 3. Install docker desktop
 4. Use docker-compose up --build
 5. Navigate to localhost:8501 for the streamlit UI
+6. Select your area of interest from the dropdown and click on fetch papers
+7. After papers are fetched . select the paper to be summarised , your level of understanding from the drpopdown and click on submit question.
 
 
 
