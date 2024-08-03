@@ -6,8 +6,8 @@ A research paper summarization tool using LLM that fetches the latest research p
 https://github.com/shrutivese/research-paper-summariser/assets/155245815/82d3e7a3-0e6c-41b3-a199-a56437324dba
 
 # built using
-- Gemini LLM
-- Pathway
+- Gemini LLM : Since the research papers may contain graphs and diagrams a amultimodal LLM such as Gemini may result in better output.
+- Pathway : Provides powerful pipeline
 - Streamlit
 - vsolatorio/GIST-small-Embedding-v0 Embedder
 
